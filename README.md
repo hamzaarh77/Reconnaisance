@@ -7,5 +7,7 @@ Ce projet utilise le dataset MNIST, un ensemble de données de chiffres manuscri
 - Fonctionnalités
 
 Prétraitement des images du dataset MNIST.
+
 Entraînement d'un modèle CNN.
+
 Évaluation de la précision du modèle sur les données de test.
