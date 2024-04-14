@@ -11,3 +11,7 @@ Prétraitement des images du dataset MNIST.
 Entraînement d'un modèle CNN.
 
 Évaluation de la précision du modèle sur les données de test.
+
+- Résultats
+
+précision du modéle est de 99%
